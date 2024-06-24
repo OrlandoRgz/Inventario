@@ -1,0 +1,6 @@
+C:\Users\Orlan\source\repos\Inventario\Engine\bin\Debug\Engine.dll
+C:\Users\Orlan\source\repos\Inventario\Engine\bin\Debug\Engine.pdb
+C:\Users\Orlan\source\repos\Inventario\Engine\obj\Debug\Engine.csproj.AssemblyReference.cache
+C:\Users\Orlan\source\repos\Inventario\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Orlan\source\repos\Inventario\Engine\obj\Debug\Engine.dll
+C:\Users\Orlan\source\repos\Inventario\Engine\obj\Debug\Engine.pdb

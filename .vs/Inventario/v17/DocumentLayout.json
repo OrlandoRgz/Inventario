@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orlan\\source\\repos\\Inventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E35F0F-E7B3-4F66-9D7C-2C09D8BE84C3}|Inventario\\Inventario.csproj|C:\\Users\\Orlan\\source\\repos\\Inventario\\inventario\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2E35F0F-E7B3-4F66-9D7C-2C09D8BE84C3}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01421C3-9E86-4669-B791-6D38326B4A66}|Engine\\Engine.csproj|C:\\Users\\Orlan\\source\\repos\\Inventario\\engine\\bo\\constans\\sqlconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01421C3-9E86-4669-B791-6D38326B4A66}|Engine\\Engine.csproj|solutionrelative:engine\\bo\\constans\\sqlconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01421C3-9E86-4669-B791-6D38326B4A66}|Engine\\Engine.csproj|C:\\Users\\Orlan\\source\\repos\\Inventario\\engine\\dal\\productodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01421C3-9E86-4669-B791-6D38326B4A66}|Engine\\Engine.csproj|solutionrelative:engine\\dal\\productodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E35F0F-E7B3-4F66-9D7C-2C09D8BE84C3}|Inventario\\Inventario.csproj|C:\\Users\\Orlan\\source\\repos\\Inventario\\inventario\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2E35F0F-E7B3-4F66-9D7C-2C09D8BE84C3}|Inventario\\Inventario.csproj|solutionrelative:inventario\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E35F0F-E7B3-4F66-9D7C-2C09D8BE84C3}|Inventario\\Inventario.csproj|C:\\Users\\Orlan\\source\\repos\\Inventario\\inventario\\scripts\\producto\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F2E35F0F-E7B3-4F66-9D7C-2C09D8BE84C3}|Inventario\\Inventario.csproj|solutionrelative:inventario\\scripts\\producto\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E35F0F-E7B3-4F66-9D7C-2C09D8BE84C3}|Inventario\\Inventario.csproj|C:\\Users\\Orlan\\source\\repos\\Inventario\\inventario\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E35F0F-E7B3-4F66-9D7C-2C09D8BE84C3}|Inventario\\Inventario.csproj|solutionrelative:inventario\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01421C3-9E86-4669-B791-6D38326B4A66}|Engine\\Engine.csproj|C:\\Users\\Orlan\\source\\repos\\Inventario\\engine\\bl\\productobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01421C3-9E86-4669-B791-6D38326B4A66}|Engine\\Engine.csproj|solutionrelative:engine\\bl\\productobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 288,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orlan\\source\\repos\\Inventario\\Inventario\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Orlan\\source\\repos\\Inventario\\Inventario\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T02:21:32.998Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orlan\\source\\repos\\Inventario\\Inventario\\Views\\Producto\\Index.cshtml",
+              "RelativeDocumentMoniker": "Inventario\\Views\\Producto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orlan\\source\\repos\\Inventario\\Inventario\\Views\\Producto\\Index.cshtml",
+              "RelativeToolTip": "Inventario\\Views\\Producto\\Index.cshtml",
+              "ViewState": "AQIAAAUAAACQMjMzMzMbwBUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T02:31:48.142Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.js",
+              "DocumentMoniker": "C:\\Users\\Orlan\\source\\repos\\Inventario\\Inventario\\Scripts\\Producto\\Index.js",
+              "RelativeDocumentMoniker": "Inventario\\Scripts\\Producto\\Index.js",
+              "ToolTip": "C:\\Users\\Orlan\\source\\repos\\Inventario\\Inventario\\Scripts\\Producto\\Index.js",
+              "RelativeToolTip": "Inventario\\Scripts\\Producto\\Index.js",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-24T03:22:25.097Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Orlan\\source\\repos\\Inventario\\Inventario\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Inventario\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Orlan\\source\\repos\\Inventario\\Inventario\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "Inventario\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACAAAACqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T02:31:29.311Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductoBL.cs",
+              "DocumentMoniker": "C:\\Users\\Orlan\\source\\repos\\Inventario\\Engine\\BL\\ProductoBL.cs",
+              "RelativeDocumentMoniker": "Engine\\BL\\ProductoBL.cs",
+              "ToolTip": "C:\\Users\\Orlan\\source\\repos\\Inventario\\Engine\\BL\\ProductoBL.cs",
+              "RelativeToolTip": "Engine\\BL\\ProductoBL.cs",
+              "ViewState": "AQIAACsAAABAZmZmZmYgwDwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:43:36.886Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Orlan\\source\\repos\\Inventario\\Engine\\DAL\\ProductoDAL.cs",
+              "RelativeDocumentMoniker": "Engine\\DAL\\ProductoDAL.cs",
+              "ToolTip": "C:\\Users\\Orlan\\source\\repos\\Inventario\\Engine\\DAL\\ProductoDAL.cs",
+              "RelativeToolTip": "Engine\\DAL\\ProductoDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKMAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:45:59.146Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SqlConexion.cs",
+              "DocumentMoniker": "C:\\Users\\Orlan\\source\\repos\\Inventario\\Engine\\BO\\Constans\\SqlConexion.cs",
+              "RelativeDocumentMoniker": "Engine\\BO\\Constans\\SqlConexion.cs",
+              "ToolTip": "C:\\Users\\Orlan\\source\\repos\\Inventario\\Engine\\BO\\Constans\\SqlConexion.cs",
+              "RelativeToolTip": "Engine\\BO\\Constans\\SqlConexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:42:01.614Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

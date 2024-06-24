@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    <!-- [ Bootstrap ]-->
+    <link href="~/Content/Lib/bootstrap5.2.3/bootstrap.min.css" rel="stylesheet" />
+    <!-- [ Jquery-ui ]-->
+    <link href="~/Content/Lib/jquery-ui-1.13.3.custom/jquery-ui.min.css" rel="stylesheet" />
+    <!-- [ AG Grid ]-->
+    <script src="~/Content/Lib/AG Grid/ag-grid-community.min.js"></script>
+    <link href="~/Content/Lib/AG Grid/ag-grid.css" rel="stylesheet" />
+    <!-- [ Fontawesome ]-->
+    <link href="~/Content/Lib/fontawesome-free-6.5.2-web/css/all.css" rel="stylesheet" />
+    <link href="~/Content/css/style.css" rel="stylesheet" />
+    @RenderSection("styles", required: false)
+</head>
+<body>
+    <div class="container-fluid">
+        @RenderBody()
+    </div>
+
+    <!-- [ Jquery ]-->
+    <script src="~/Content/Lib/jquery/jquery-3.7.1.js"></script>
+    <!-- [ Bootstrap ]-->
+    <script src="~/Content/Lib/bootstrap5.2.3/bootstrap.bundle.min.js"></script>
+    <!-- [ Jquery-ui ]-->
+    <script src="~/Content/Lib/jquery-ui-1.13.3.custom/jquery-ui.min.js"></script>
+    <!-- [ Sweetalert2 ]-->
+    <script src="~/Content/Lib/sweetalert2/sweetalert2@11.js"></script>
+    <!-- [ Fontawesome ]-->
+    <script src="~/Content/Lib/fontawesome-free-6.5.2-web/js/all.js"></script>
+
+    @RenderSection("scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,77 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Index";
+}
+
+@section styles{
+    <link href="~/Content/Lib/AG Grid/ag-grid-theme-builder.css" rel="stylesheet" />
+}
+
+@section Scripts {
+    <script src="~/Scripts/Producto/Index.js"></script>
+}
+
+
+<h2 class="pb-2 border-bottom">INVENTARIO</h2>
+<div class="row g-2 m-2">
+    <div class="col-2">
+        <label class="form-label">Num. Producto</label>
+        <input id="inpNumPro" class="form-control" type="number" />
+    </div>
+    <div class="col-2">
+        <label class="form-label">Descripcion</label>
+        <input id="inpNombre" class="form-control" type="text" />
+    </div>
+    <div class="col-1 align-content-end">
+        <button id="btnBuscar" type="button" class="btn btn-outline-primary">BUSCAR</button>
+    </div>
+    <div class="col-1 align-content-end">
+        <button id="btnRefresh" type="button" class="btn btn-outline-primary">&nbsp;<i class="fa-solid fa-circle-notch fa-spin"></i>&nbsp;</button>
+    </div>
+    <div class="col align-content-end text-end">
+        <button id="btnAgregar" type="button" class="btn btn-outline-success" data-bs-toggle="modal" data-bs-target="#addModal"><i class="fa-solid fa-plus fa-bounce"></i>&nbsp;AGREGAR</button>
+        <button id="btnActualizar" type="button" class="btn btn-outline-primary ms-2"><i class="fa-solid fa-pen fa-shake"></i>&nbsp;ACTUALIZAR</button>
+        <button id="btnEliminar" type="button" class="btn btn-outline-danger ms-2"><i class="fa-regular fa-trash-can fa-beat"></i>&nbsp;ELIMINAR</button>
+    </div>
+</div>
+
+<div class="row m-2">
+    <div id="gridProd" class="ag-theme-custom border p-0" style="height: 550px; width: 100%"></div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="addModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="exampleModalLabel">Agregar Producto</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-6">
+                        <label class="form-label">Codigo Barra</label>
+                        <input id="inpCodMod" class="form-control" type="text" />
+                    </div>
+                    <div class="col-6">
+                        <label class="form-label">Descripcion</label>
+                        <input id="inpDescMod" class="form-control" type="text" />
+                    </div>
+                    <div class="col-6">
+                        <label class="form-label">Precio</label>
+                        <input id="inpPrecioMod" class="form-control" type="number" />
+                    </div>
+                    <div class="col-6">
+                        <label class="form-label">Cantidad</label>
+                        <input id="inpCantidadMod" class="form-control" type="number" />
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button id="btnAgregarMod" type="button" class="btn btn-outline-success"><i class="fa-solid fa-plus fa-bounce"></i>&nbsp;AGREGAR</button>
+            </div>
+        </div>
+    </div>
+</div>
